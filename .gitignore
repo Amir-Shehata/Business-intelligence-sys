@@ -1,10 +1,5 @@
 node_modules/
 dist/
+*.local
 .env
 *.log
-.DS_Store
-coverage/
-uploads/
-*.xlsx
-*.xls
-!sample-data/**
